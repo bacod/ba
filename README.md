@@ -1,8 +1,6 @@
 <html>
 <head>
   <title>Your Website Title</title>bihcode.com
-    <!-- You can use open graph tags to customize link previews.
-    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
   <meta property="og:url"           content="https://www.bihcode.com/your-page.html" />
   <meta property="og:type"          content="website" />bihcode.com
   <meta property="og:title"         content="Your Website Title" />bihcode.com
